@@ -1,0 +1,7 @@
+/Users/jessevaldez/Documents/MIS 333K HW/Valdez_Jesse_HW2/Valdez_Jesse_HW2/obj/Debug/netcoreapp3.1/Valdez_Jesse_HW2.csprojAssemblyReference.cache
+/Users/jessevaldez/Documents/MIS 333K HW/Valdez_Jesse_HW2/Valdez_Jesse_HW2/obj/Debug/netcoreapp3.1/Valdez_Jesse_HW2.AssemblyInfoInputs.cache
+/Users/jessevaldez/Documents/MIS 333K HW/Valdez_Jesse_HW2/Valdez_Jesse_HW2/obj/Debug/netcoreapp3.1/Valdez_Jesse_HW2.AssemblyInfo.cs
+/Users/jessevaldez/Documents/MIS 333K HW/Valdez_Jesse_HW2/Valdez_Jesse_HW2/obj/Debug/netcoreapp3.1/Valdez_Jesse_HW2.csproj.CoreCompileInputs.cache
+/Users/jessevaldez/Documents/MIS 333K HW/Valdez_Jesse_HW2/Valdez_Jesse_HW2/obj/Debug/netcoreapp3.1/Valdez_Jesse_HW2.MvcApplicationPartsAssemblyInfo.cache
+/Users/jessevaldez/Documents/MIS 333K HW/Valdez_Jesse_HW2/Valdez_Jesse_HW2/obj/Debug/netcoreapp3.1/Valdez_Jesse_HW2.RazorAssemblyInfo.cache
+/Users/jessevaldez/Documents/MIS 333K HW/Valdez_Jesse_HW2/Valdez_Jesse_HW2/obj/Debug/netcoreapp3.1/Valdez_Jesse_HW2.RazorAssemblyInfo.cs
